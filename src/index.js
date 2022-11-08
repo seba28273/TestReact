@@ -11,7 +11,7 @@ function Gretting() {
     return <div>
 
         <h1 className='paragraph'>{name}</h1>
-        <h1 className='paragraph'>{name}</h1>
+        <h1 className='paragraph'>{name}</h1>   
     </div>
 }
 
